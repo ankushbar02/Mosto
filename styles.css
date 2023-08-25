@@ -1,0 +1,34 @@
+.back{
+    background-image: url(./assets/pic1.png);
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.base2{
+    /* background-image: url(./assets/Background.svg);
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-size:cover; */
+    background-color: #EEF3F9;
+    
+}
+.base3{
+    background-image: url(./assets/Background.svg);
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-size:cover;
+
+}
+.back2{
+    background-image: url(./assets/Background.png);
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.lik{
+    color: white;
+    text-decoration: none;
+}
